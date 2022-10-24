@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.Text{
+    color: white;
+}
+
+.Navbar{
+    background-color: darkgray;
+    color: blue;
+    height: 50px;
+    text-align: center;
+}
